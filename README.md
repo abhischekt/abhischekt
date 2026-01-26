@@ -1,9 +1,9 @@
 ## Hi there, I'm Abhischek 👋
 [![Linkedin Badge](https://img.shields.io/badge/Abhischek-Thottakara-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/abhischek-thottakara/)](https://www.linkedin.com/in/abhischek-thottakara/)
 
-I work at [PostHog](https://github.com/PostHog/posthog)!
+I work at [PostHog](https://github.com/PostHog/posthog)!🦔
 
-[![abhischekt's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhischekt&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/abhischekt)
+[![abhischekt's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhischekt&include_all_commits=true&theme=dark)](https://github.com/abhischekt)
 ---
 
 <!--
