@@ -3,7 +3,7 @@
 
 I work at [PostHog](https://github.com/PostHog/posthog)!🦔
 
-[![abhischekt's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhischekt&include_all_commits=true&theme=dark)](https://github.com/abhischekt)
+[![abhischekt's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhischekt)](https://github.com/abhischekt)
 ---
 
 <!--
